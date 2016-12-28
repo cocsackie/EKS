@@ -1,0 +1,1 @@
+jupyter notebook zespol38.ipynb
